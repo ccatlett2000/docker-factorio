@@ -1,6 +1,7 @@
-# Factorio [![Docker Repository on Quay](https://quay.io/repository/games_on_k8s/factorio/status "Docker Repository on Quay")](https://quay.io/repository/games_on_k8s/factorio)
+# Factorio
 
 A Docker image for the [Factorio](https://www.factorio.com/) dedicated server.
+This is taken from [here](https://github.com/games-on-k8s/docker-factorio) but I needed a version of factorio that it doesn't have uploaded
 
 ## Versions
 
